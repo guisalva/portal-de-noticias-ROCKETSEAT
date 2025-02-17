@@ -32,7 +32,7 @@ a {
   color: inherit;
 }
 
-a::hover {
+a:hover {
   color: var(--brand-color-light);
 }
 
@@ -54,6 +54,7 @@ img {
 
 main {
   margin-top: 40px;
+  gap: 80px;
 }
 
 .content-tag {
